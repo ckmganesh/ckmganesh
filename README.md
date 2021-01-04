@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I'm a rubiks cube speed solver
 
+## Github Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ckmganesh&show_icons=true&theme=dark&line_height=35" alt="Ganesh's github stats"/>
-
 
